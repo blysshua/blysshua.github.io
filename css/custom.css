@@ -1402,7 +1402,7 @@ width: 100%;
   background-color: #FB079A;
 }
 .offcanvas.show .nav-link {
-  color: #c0f905;
+  color: #000000;
 }
 
 button.navbar-toggler {
@@ -1461,4 +1461,5 @@ button.navbar-toggler {
 
 
 /* Custom CSS for Bootstrap 5.3 template designed for Web and Time-Based Design Subject [DESN1021]- 2023 */
+
 
